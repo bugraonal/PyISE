@@ -1,0 +1,1 @@
+python3 PyISE.py --sourceFiles VSCPU.v --top SimpleCPU --simFiles blram.v VSCPU.v VSCPU_tb.v --testbench VSCPU_tb --include data.v --xilinx /home/bugra/tools/Xilinx/14.7/ISE_DS/ISE --platform lin64 --folder submissions --logsFolder logs --folderPattern "*_file_" --gradedFiles VSCPU.v
