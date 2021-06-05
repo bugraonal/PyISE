@@ -9,12 +9,14 @@ In order to use it, the following are neccessary:
 - Xilinx ISE
 - ISIM
 
-In order to use this package, clone this repo with
+In order to use this package, you can either clone this repo with
 ```
 git clone https://github.com/bugraonal/PyISE.git
 ```
-
-An installation script will be added in the future.
+Or install with pip
+```
+python3 -m pip install pyise
+```
 
 ## Usage
 PyISE can be used either in other Python scripts or stand-alone. 
