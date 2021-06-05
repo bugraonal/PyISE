@@ -1,0 +1,28 @@
+# Python and package
+.build/
+.dist/
+__pycache__/
+*.egg-info/
+
+# ISE
+*.log
+*.cmd
+*.xmsgs
+isim/
+*.wdb
+*.gise
+*.xise
+sim_exec
+*.cmd_log
+*.lso
+*.ngc
+*.ngr
+*.prj
+*.stx
+*.syr
+*.xst
+*.xst.xrpt
+*.tcl
+webtalk_pn.xml
+_xmsgs/
+xst/
